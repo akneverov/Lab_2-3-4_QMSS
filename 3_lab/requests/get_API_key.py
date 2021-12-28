@@ -1,8 +1,8 @@
 import requests
 
 get_key_headers = {
-    "email": "abc1234@mail.ru",
-    "password": "abc1234"
+    "email": "akneverov@yandex.ru",
+    "password": "Passwd_secret"
 }
 
 get_key_params = get_key_headers
